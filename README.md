@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi waving Welcome to my Github!
 <!--
 **bbonifacio-at-samsara/bbonifacio-at-samsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
