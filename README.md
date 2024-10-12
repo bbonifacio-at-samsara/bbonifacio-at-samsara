@@ -7,12 +7,14 @@ This is my work Github, sorry if you're external to Samsara and can't see anythi
 </p>
 <ul>
   <li><em><a href="https://brandonbonifacio.com/">Personal Website</a></em></li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li><em><a href="https://github.com/bbonifacio-at-mudd/">Personal Github</a></em></li>
+  <li><em><a href="https://www.linkedin.com/in/bonifaciob/">LinkedIn</a></em></li>
 </ul>
 
-
+<p align="left">
+Samsara is a rare gem of a tech company that is both making a positive impact on the world while also being an absolutely fantastic 
+place to work.  
+</p>
 
 <!--
 **bbonifacio-at-samsara/bbonifacio-at-samsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
