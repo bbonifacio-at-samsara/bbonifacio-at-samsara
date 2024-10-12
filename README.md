@@ -12,8 +12,8 @@ This is my work Github, sorry if you're external to Samsara and can't see anythi
 </ul>
 
 <p align="left">
-Samsara is a rare gem of a tech company that is both making a positive impact on the world while also being an absolutely fantastic 
-place to work.  
+Samsara is a rare gem of a tech company that is both making a large, unedeniable positive impact on the world while also being
+an absolutely fantastic place to work.
 </p>
 
 <!--
