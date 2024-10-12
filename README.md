@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Hi there! <img src="https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464" alt="waving" width="50" height="50"> 😃
+Hi there! <img src="https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464" alt="waving" width="40" height="40"> 😃
 </h1>
 <p align="left">
 This is my work Github, sorry if you're external to Samsara and can't see anything, no sharing trade secrets! Here's some useful links:
