@@ -6,7 +6,7 @@ Hi there! <img src="https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/ass
 This is my work Github, sorry if you're external to Samsara and can't see anything, no sharing trade secrets! Here's some useful links:
 </p>
 <ul>
-  <li><em><href=https://brandonbonifacio.com/>Personal Website </em></li>
+  <li><em><a href="https://brandonbonifacio.com/">Personal Website</a></em></li>
   <li>Second item</li>
   <li>Third item</li>
   <li>Fourth item</li>
