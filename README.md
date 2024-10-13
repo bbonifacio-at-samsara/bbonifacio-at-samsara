@@ -17,8 +17,7 @@ an absolutely fantastic place to work.
 </p>
 
 <p align="left">
-To my Coworkers, I've linked some playlists/music/background noise I like listening to as I work, maybe you'll like it, too, I find it makes
-me more productive:
+To my Coworkers, I've linked some playlists/music/background noise I've found fun to listen to at least one time, maybe you'll like some, too:
 </p> 
 <ul>
   <li><em><a href="https://www.youtube.com/watch?v=Hlp6aawXVoY">All-around solid choice, if not a little plain</em></li>
