@@ -22,10 +22,15 @@ To my Coworkers, I've linked some playlists/music/background noise I've found fu
 <ul>
   <li><em><a href="https://www.youtube.com/watch?v=Hlp6aawXVoY">All-around solid choice, if not a little plain</em></li>
   <li><em><a href="https://www.youtube.com/watch?v=eHqw900CuTY">Studying with Gandalf </em></li>
-  <li><em><a href="https://www.youtube.com/watch?v=coTMbGB2cfM"> Halloween! This is Halloween!! 🎃🎃🎃🎃🎃🎃🎃🎃</em></li>
-
-    
+  <li><em><a href="https://www.youtube.com/watch?v=coTMbGB2cfM"> Halloween! This is Halloween!! 🎃🎃🎃🎃🎃🎃🎃🎃</em></li>    
 </ul>
+
+Sampling the Customer Experience!
+
+https://github.com/user-attachments/assets/92102af4-92e0-41ce-aed7-bbb0b22382c9
+
+
+
 
 <!--
 **bbonifacio-at-samsara/bbonifacio-at-samsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
