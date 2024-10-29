@@ -22,9 +22,6 @@ To my Coworkers, I've linked some playlists/music/background noise I've found fu
 <ul>
   <li><em><a href="https://www.youtube.com/watch?v=Hlp6aawXVoY">All-around solid choice, if not a little plain</em></li>
   <li><em><a href="https://www.youtube.com/watch?v=eHqw900CuTY">Studying with Gandalf </em></li>
-  <li><em><a href="https://www.youtube.com/watch?v=sl9OmHy6c6o">The Presidential Pump (this one's kinda goofy) </em></li>
-  <li><em><a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lofi Girl, a classic</em></li>
-  <li><em><a href="https://www.youtube.com/watch?v=p77-glF--GA">I don't even watch anime, but this is pretty good</em></li>
   <li><em><a href="https://www.youtube.com/watch?v=coTMbGB2cfM"> Halloween! This is Halloween!! 🎃🎃🎃🎃🎃🎃🎃🎃</em></li>
 
     
