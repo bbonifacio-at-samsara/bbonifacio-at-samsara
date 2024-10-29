@@ -25,10 +25,9 @@ To my Coworkers, I've linked some playlists/music/background noise I've found fu
   <li><em><a href="https://www.youtube.com/watch?v=coTMbGB2cfM"> Halloween! This is Halloween!! 🎃🎃🎃🎃🎃🎃🎃🎃</em></li>    
 </ul>
 
-Sampling the Customer Experience!
+Sampling the Customer Experience! "What better way to test our new drowsiness feature than to drive while tired and see what happens?" 
 
-https://github.com/user-attachments/assets/92102af4-92e0-41ce-aed7-bbb0b22382c9
-
+https://github.com/user-attachments/assets/86a0cbfd-465d-430f-97e6-c78a20798f74
 
 
 
