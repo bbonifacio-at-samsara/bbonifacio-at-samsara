@@ -8,7 +8,7 @@ This is my work Github, sorry if you're external to Samsara and can't see anythi
 <ul>
   <li><em><a href="https://brandonbonifacio.com/">Personal Website</a></em></li>
   <li><em><a href="https://github.com/bbonifacio-at-mudd/">Personal Github</a></em></li>
-  <li><em><a href="https://www.linkedin.com/in/bonifaciob/">LinkedIn</a></em></li>
+  <li><em><a href="https://www.linkedin.com/in/bonifaciob/">LinkedIn</a></em></li>  
 </ul>
 
 <p align="left">
