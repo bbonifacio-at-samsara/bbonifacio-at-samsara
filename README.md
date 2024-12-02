@@ -20,7 +20,7 @@ an absolutely fantastic place to work.
 To my Coworkers, I've linked some playlists/music/background noise I've found fun to listen to at least one time, maybe you'll like some, too:
 </p> 
 <ul>
-  <li><em><a href="https://www.youtube.com/watch?v=Hlp6aawXVoY">All-around solid choice, if not a little plain</em></li>
+  <li><em><a href="https://www.youtube.com/watch?v=Hlp6aawXVoY">All-around solid choice, classical music</em></li>
   <li><em><a href="https://www.youtube.com/watch?v=eHqw900CuTY">Studying with Gandalf </em></li>
   <li><em><a href="https://www.youtube.com/watch?v=coTMbGB2cfM"> Halloween! This is Halloween!! 🎃🎃🎃🎃🎃🎃🎃🎃</em></li>    
   <li><em><a href="https://www.youtube.com/watch?v=tqUUNMq71vk"> Great pop music </em></li>   
