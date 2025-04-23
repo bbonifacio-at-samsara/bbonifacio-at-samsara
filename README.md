@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">
 
 Hi there! <img src="https://github.com/bbonifacio-at-mudd/bbonifacio-at-mudd/assets/114462423/c51c3fbf-d6a2-4dae-bba0-5d36ba70d464" alt="waving" width="40" height="40"> 😃
@@ -29,6 +30,7 @@ To my Coworkers, I've linked some playlists/music/background noise I've found fu
 Sampling the Customer Experience! "What better way to test our new drowsiness feature than to drive while tired and see what happens?" 
 
 https://github.com/user-attachments/assets/86a0cbfd-465d-430f-97e6-c78a20798f74
+--!>
 
 
 
